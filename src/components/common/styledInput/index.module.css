@@ -1,0 +1,7 @@
+#input {
+    border:1px solid #054F48;
+    color:#054F48
+}
+#input::placeholder {
+    color: #054F48;
+}
