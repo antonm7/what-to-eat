@@ -6,7 +6,7 @@ export default function Popular() {
             <h1 className="leading-tight text-greenText text-4xl font-semibold">
                 Popular Recipes
             </h1>
-            <div className="pt-8 flex justify-between">
+            <div className="pt-8 flex justify-between flex-wrap">
                 <SingleImage />
                 <SingleImage />
                 <SingleImage />
